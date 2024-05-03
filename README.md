@@ -26,6 +26,9 @@ Before running the simulation, ensure that you configure the simulation paramete
 ## Citation
 If you use this code in your research or wish to refer to it in your academic publication, please cite it as follows:
 
+## Citation
+If you use this code in your research or wish to refer to it in your academic publication, please cite it as follows:
+
 ```bibtex
 @software{thunderstorm_simulation_optimization,
   author = {Andi Xhelaj},
@@ -35,11 +38,7 @@ If you use this code in your research or wish to refer to it in your academic pu
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/Andi1shi/Thunderr_Analytical_Model}}
 }
-
-
-
-
-
+```
 ## License
 MIT License
 
@@ -49,7 +48,7 @@ of this MATLAB script, including without limitation the rights
 to use, copy, modify, merge and publish. 
 
 
-## Acknowledgments
+## References
 - Xhelaj, A., Burlando, M., Solari, G. (2020). A general-purpose analytical model for reconstructing the thunderstorm outflows of travelling downbursts immersed in ABL flows. Journal of Wind Engineering and Industrial Aerodynamics, 207, 104373.
 - Xhelaj, A., Burlando, M.: Application of metaheuristic optimization algorithms to evaluate the geometric and kinematic parameters of downbursts. Advances in Engineering Software. Volume 173, November 2022, 103203.
 
