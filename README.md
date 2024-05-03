@@ -13,7 +13,7 @@ No specific installation is required other than having MATLAB installed on your 
 
 ## Usage
 - **Load Data**: Ensure that the thunderstorm data file `Thunderstorm_Romania_MA.mat` is in the MATLAB path or in the same directory as the script.
-- **Run the Script**: Open the script in MATLAB and press Run. The script clears the current MATLAB environment, so ensure you save your work before running the script.
+- **Run the Script**: Open the script `MultiRunV01.m` in MATLAB and press Run. The script clears the current MATLAB environment, so ensure you save your work before running the script.
 - **Adjust Parameters**: Users can modify simulation time settings and station location parameters directly in the script under the "Simulation Parameters" section.
 
 ## Configuration
