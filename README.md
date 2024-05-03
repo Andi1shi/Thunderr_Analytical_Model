@@ -14,7 +14,7 @@ No specific installation is required other than having MATLAB installed on your 
 ## Usage
 - **Load Data**: Ensure that the thunderstorm data file `Thunderstorm_Romania_MA.mat` or a similar dataset is accessible within the MATLAB path or in the same directory as the script.
 - **Run the Script**: Open the script `MultiRunV01.m` in MATLAB and execute it. Note that the script utilizes parallel computing (parfor), enhancing computational efficiency.
-- **Adjust Parameters**: Users can modify simulation settings, downburst parameters lower and upper bounds and the number of multiple runs for proper metaheuristic optimization. Please refrase it better. One have to do multiple runs in order to ensure that the best solution is achived
+- **Adjust Parameters**: Users can change simulation settings, refine downburst parameters by adjusting the lower and upper bounds, and specify the number of runs for metaheuristic optimization. Conducting multiple runs ensures robust optimization, leading to the identification of the best solution.
 
 ## Configuration
 Before running the simulation, ensure that you configure the simulation parameters according to your specific requirements. The parameters include the simulation time settings, station locations, and bounds for various simulation parameters like the downburst radius and velocity.
