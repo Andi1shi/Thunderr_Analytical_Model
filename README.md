@@ -23,8 +23,6 @@ Before running the simulation, ensure that you configure the simulation paramete
 - MATLAB (tested on R2021a)
 - No additional MATLAB toolboxes are required.
 
-## Citation
-If you use this code in your research or wish to refer to it in your academic publication, please cite it as follows:
 
 ## Citation
 If you use this code in your research or wish to refer to it in your academic publication, please cite it as follows:
