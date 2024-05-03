@@ -25,9 +25,17 @@ Before running the simulation, ensure that you configure the simulation paramete
 
 ## Citation
 If you use this code in your research or wish to refer to it in your academic publication, please cite it as follows:
+@software{thunderstorm_simulation_optimization,
+author = {Andi Xhelaj},
+title = {Thunderstorm Simulation and Optimization Script},
+year = 2024,
+publisher = {GitHub},
+journal = {GitHub repository},
+howpublished = {\url{https://github.com/Andi1shi/Thunderr_Analytical_Model}}
+}
 
 
-Replace `https://github.com/username/repository` with the actual URL of your GitHub repository. Be sure to update this citation with a DOI if you archive the repository on Zenodo or a similar service.
+
 
 ## License
 MIT License
