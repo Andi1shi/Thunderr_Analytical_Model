@@ -1,1 +1,1 @@
-# Thunderr_Analytical_Model
+# Thunderstorm Simulation and Optimization
