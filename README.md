@@ -4,7 +4,7 @@
 This MATLAB script is designed for simulating horizontal slowly-varying mean wind velocity caused by traveling downbursts. It combines three velocity fields: radial impinging jet, downburst translational, and ambient ABL (Atmospheric Boundary Layer) wind velocities. The model employs a parametric-analytical approach for spatiotemporal reconstruction of downburst events and optimizes downburst geometric and kinematics parameters against real measurements using the Teaching-Learning-Based Optimization (TLBO) algorithm.
 
 ## Features
-- **Parametric-Analytical Model**: Uses a well-defined analytical model to simulate downburst wind fields.
+- **Parametric-Analytical Model**: Uses an analytical model to simulate downburst wind fields.
 - **Optimization**: Employs TLBO to optimize the geometric and kinematic parameters of downbursts based on recorded data.
 - **Visualization**: Includes functionality to plot and analyze the simulation results and optimization process.
 
