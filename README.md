@@ -50,5 +50,5 @@ to use, copy, modify, merge and publish.
 
 ## References
 - Xhelaj, A., Burlando, M., Solari, G. (2020). A general-purpose analytical model for reconstructing the thunderstorm outflows of travelling downbursts immersed in ABL flows. Journal of Wind Engineering and Industrial Aerodynamics, 207, 104373.
-- Xhelaj, A., Burlando, M.: Application of metaheuristic optimization algorithms to evaluate the geometric and kinematic parameters of downbursts. Advances in Engineering Software. Volume 173, November 2022, 103203.
+- Xhelaj, A., Burlando, M. (2022): Application of metaheuristic optimization algorithms to evaluate the geometric and kinematic parameters of downbursts. Advances in Engineering Software. Volume 173, 103203.
 
