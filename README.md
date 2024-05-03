@@ -12,9 +12,9 @@ This MATLAB script is designed for simulating horizontal slowly-varying mean win
 No specific installation is required other than having MATLAB installed on your system. This script was developed and tested in MATLAB R2021a.
 
 ## Usage
-- **Load Data**: Ensure that the thunderstorm data file `Thunderstorm_Romania_MA.mat` is in the MATLAB path or in the same directory as the script.
-- **Run the Script**: Open the script `MultiRunV01.m` in MATLAB and press Run. The script clears the current MATLAB environment, so ensure you save your work before running the script.
-- **Adjust Parameters**: Users can modify simulation time settings and station location parameters directly in the script under the "Simulation Parameters" section.
+- **Load Data**: Ensure that the thunderstorm data file `Thunderstorm_Romania_MA.mat` or a similar dataset is accessible within the MATLAB path or in the same directory as the script.
+- **Run the Script**: Open the script `MultiRunV01.m` in MATLAB and execute it. Note that the script utilizes parallel computing (parfor), enhancing computational efficiency.
+- **Adjust Parameters**: Users can modify simulation settings, downburst parameters lower and upper bounds and the number of multiple runs for proper metaheuristic optimization. Please refrase it better. One have to do multiple runs in order to ensure that the best solution is achived
 
 ## Configuration
 Before running the simulation, ensure that you configure the simulation parameters according to your specific requirements. The parameters include the simulation time settings, station locations, and bounds for various simulation parameters like the downburst radius and velocity.
